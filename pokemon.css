@@ -1,0 +1,52 @@
+#centre
+{
+	
+	width: 350px;
+	height: 300px;
+	display: inline-block;
+	text-align: center;
+	margin-right: 150px;
+    border:solid;
+    border-color: red; 
+
+}
+#gauche
+{
+	
+	width: 350px;
+	height:300px;
+	display:inline-block;
+	text-align:center;
+	margin-right:90px;
+	border:solid;
+	border-color: red;
+}
+#droite
+{
+	width: 350px;
+	height:300px;
+	display:inline-block;
+	text-align: center; 
+	margin-right: -130px;
+	border:solid;
+	border-color: red;
+
+}
+
+/*
+#tableun
+{
+	border:double;
+	border-color: red;
+}
+
+#tabledeux
+{
+	border: double;
+	border-color: red;
+}
+#tabletrois
+{
+		border: double;
+	   border-color: red;
+}*/
